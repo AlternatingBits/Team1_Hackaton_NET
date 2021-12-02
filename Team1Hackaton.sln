@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddNumber", "AddNumber\AddN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watch", "Watch\Watch.csproj", "{524F0022-D5E0-4794-AE34-D18D9F8D5B81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevator.csproj", "{2CC5EA77-8A28-4D4F-8D7E-04BDA472F5D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{524F0022-D5E0-4794-AE34-D18D9F8D5B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{524F0022-D5E0-4794-AE34-D18D9F8D5B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{524F0022-D5E0-4794-AE34-D18D9F8D5B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC5EA77-8A28-4D4F-8D7E-04BDA472F5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC5EA77-8A28-4D4F-8D7E-04BDA472F5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC5EA77-8A28-4D4F-8D7E-04BDA472F5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC5EA77-8A28-4D4F-8D7E-04BDA472F5D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
