@@ -12,7 +12,7 @@ client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bear
 
 var startUrl = "api/path/1/easy/Start";
 
-//var startResponse = await client.GetAsync(startUrl);
+var startResponse = await client.GetAsync(startUrl);
 
 var sampleUrl = "api/path/1/easy/Sample";
 
